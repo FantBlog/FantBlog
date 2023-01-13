@@ -1,37 +1,9 @@
-# 헤딩 
-## 글자크기 키우기 용 X
-### 6단계로 나뉨
-#### 문서구조의 기본
-##### 제목 or 소제목으로 사용
-###### 안녕하세요
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seong-uk&fontSize=90)
 
-1. 리스트
-    - 순서가없는
-    - 리스트
-2. 순서가있는
-* 많이 사용하는 태그임
-* 목록을 표시하기 위해 사용
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFantBlog&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-코드 블럭
-'''code block'''
-'inline code block'
-포매팅없이 원문그대로 출력가능
-
-링크
-[string](url)
-string은 보여지는 부분
-url은 연결할 부분
-
-![image](url)
-!추가로 이미지 출력가능
-너비,높이 조절 X
-HTML을 사용하여 조절
-
-**텍스트강조** *기울이기* ~~취소선~~
-
----
-수평선 가로로 긴 수평선을 작성
-단락 구별용
-*이나 _로 대체가능
-
-🤢
+- 👋 Hi, I’m @ssafy seonguk
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
