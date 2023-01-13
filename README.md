@@ -25,8 +25,7 @@
 
 # 🧰 stack
 <div>
-  <p align="center">   
-    <h3>👩🏻‍💻 Tech Stack</h3>
+  <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>&nbsp
