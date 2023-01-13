@@ -22,3 +22,11 @@
 ## 📚 Education
 
 - **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ 2023.12.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+
+# 🧰 stack
+<div>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
