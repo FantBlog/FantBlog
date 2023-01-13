@@ -16,5 +16,9 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sup2154">
 </a>
 
-- 🌱 자 이제 시작이야
-- 🥇 
+- 🌱 백준 티어 신기해요
+- 🥇 1234567890
+
+## 📚 Education
+
+- **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ 2023.12.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
