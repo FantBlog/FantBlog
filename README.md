@@ -14,8 +14,9 @@
 
 <a href="https://solved.ac/profile/sup2154">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sup2154">
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sup2154&theme=warm)
 </a>
-- 🌱 백준 티어 신기해요
+- 🌱 백준 티어 신기해요 <br/>
 - 🥇 1234567890
 
 ## 📚 Education
