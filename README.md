@@ -15,7 +15,6 @@
 <a href="https://solved.ac/profile/sup2154">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sup2154">
 </a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sup2154)](https://solved.ac/sup2154)
 - 🌱 백준 티어 신기해요
 - 🥇 1234567890
 
