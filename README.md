@@ -14,8 +14,8 @@
 
 <a href="https://solved.ac/profile/sup2154">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sup2154">
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sup2154&theme=warm)
 </a>
+<br/>
 - 🌱 백준 티어 신기해요 <br/>
 - 🥇 1234567890
 
@@ -34,3 +34,5 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
    </p>
 </div>
+
+<img src="http://mazandi.herokuapp.com/api?handle=sup2154&theme=warm"/>
