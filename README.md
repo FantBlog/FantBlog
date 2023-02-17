@@ -1,38 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seong-uk&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seong_uk&fontSize=70)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFantBlog&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFantBlog&count_bg=%234A86FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/tjddnr011012@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tjddnr011012@gmail.com) 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tjddnr011012@gmail.com) 
+- 👋 Hi, I’m Park_seonguk
 
-- 👋 Hi, I’m ssafyseonguk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantBlog&show_icons=true&theme=noctis_minimus)
+<br>
 
-### Who Am I
+<h2> </h2>
 
-<a href="https://solved.ac/profile/sup2154">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sup2154">
-</a>
-<br/>
-- 🌱 백준 티어 신기해요 <br/>
-- 🥇 1234567890
-
-## 📚 Education
-
-- **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ 2023.12.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-
-# 🧰 stack
-<div>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-   </p>
-</div>
-
-<img src="http://mazandi.herokuapp.com/api?handle=sup2154&theme=warm"/>
+<div align="center">
+  <h4>💻 Experience</h4>
+  <h6>SSAFY 삼성 청년 SW 아카데미 9기 2023.01 ~ </h6><br>
+  
+  <h4>🍀 Problem Solving</h4>	
+  <a href="https://solved.ac/profile/sup2154"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sup2154"></a>
+	<br>
+  <h4>
+  <img src="http://mazandi.herokuapp.com/api?handle=sup2154&theme=warm"/>
+	<br>
+  
+  <h4>📊 Top Languages</h4>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantBlog&layout=compact&theme=tokyonight"><br>
+	
+	
+</div>	
