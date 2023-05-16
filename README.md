@@ -16,13 +16,16 @@
   
   <h4>🍀 Problem Solving</h4>	
   <a href="https://solved.ac/profile/sup2154"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sup2154"></a>
-	<br>
+
+  <br>
+	
   <h4>
-  <img src="http://mazandi.herokuapp.com/api?handle=sup2154&theme=warm"/>
-	<br>
+	  
+  <br>
   
   <h4>📊 Top Languages</h4>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantBlog&layout=compact&theme=tokyonight"><br>
-	
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantBlog&layout=compact&theme=tokyonight">
+  
+  <br>
 	
 </div>	
